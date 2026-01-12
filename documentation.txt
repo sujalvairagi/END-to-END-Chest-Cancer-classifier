@@ -1,2 +1,6 @@
   python api for mlflow
-  pathlib fro / \ so it will createa file regardles of os and error
+
+3. creatd requirements.txt by changing the versions of all libraries ac to stablea versions and better compatilbilty with python 3.10.8
+
+
+4.did 
